@@ -30,7 +30,7 @@ general {
 #order += "cpu_temperature 3"
 #order += "cpu_temperature 4"
 #order += "volume master"
-#order += "tztime local"
+order += "tztime local"
 
 ipv6 {
 	format_up = "%ip"
